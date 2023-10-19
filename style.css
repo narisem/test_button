@@ -1,0 +1,35 @@
+.btn1 {
+  width: 250px;
+  padding: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  background: #454545;
+  color: aliceblue;
+  font-size: 24px;
+  border-radius: 50%;
+  top: 300px;
+}
+
+.btn2 {
+  width: 250px;
+  padding: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  background: #ffffff;
+  color: rgb(0, 0, 0);
+  font-size: 24px;
+  border-radius: 50%;
+  top: 300px;
+}
+
+.btn3 {
+  width: 250px;
+  padding: 25px;
+  margin: 0 auto;
+  display: inline-block;
+  background: #ffbdbd;
+  color: aliceblue;
+  font-size: 24px;
+  border-radius: 50%;
+  top: 300px;
+}
